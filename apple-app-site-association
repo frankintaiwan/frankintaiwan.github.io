@@ -1,0 +1,29 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": {
+      "QS9LQ3Q4ZB.com.yahoo.ECStoreApp": {
+        "paths": [
+          "/",
+          "/store/*",
+          "/item/*",
+          "/store_admin/*",
+          "/rcv/*",
+          "/search/*",
+          "/Test/*"
+        ]
+      },
+      "R2V2ZRDJ73.com.yahoo.ECStoreApp-dogfood": {
+        "paths": [
+          "/",
+          "/store/*",
+          "/item/*",
+          "/store_admin/*",
+          "/rcv/*",
+          "/search/*",
+          "/Test/*"
+        ]
+      }
+    }
+  }
+}
